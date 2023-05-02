@@ -1,6 +1,7 @@
 <div align="center">
   <img width="200" src="react-frontend/frontend/public/logo512.png" alt="Synthetic Biology LIMS logo">
 
+
   # Synthetic Biology Laboratory Information Management System (LIMS)
   [![CircleCI](https://img.shields.io/circleci/build/github/JacobGrisham/Synthetic-Biology-LIMS)](https://app.circleci.com/pipelines/github/JacobGrisham/Synthetic-Biology-LIMS)
   [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d719037fafc641ada6f1f1527d8b54ca)](https://www.codacy.com/gh/JacobGrisham/Synthetic-Biology-LIMS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JacobGrisham/Synthetic-Biology-LIMS&amp;utm_campaign=Badge_Grade)
